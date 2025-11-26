@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 18.1.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 700 700" enable-background="new 0 0 700 700" xml:space="preserve" style="width: 800px;">
+<path style="opacity:0.2;fill:#FFF200;stroke:#010101;stroke-width:3;" d="M653.2,674.5H362.8c-6.6,0-12-5.4-12-12V122.9
+	c0-6.6,5.4-12,12-12h290.3c6.6,0,12,5.4,12,12v539.6C665.2,669.1,659.8,674.5,653.2,674.5z"/>
+<path style="opacity:0.2;fill:#2E3192;stroke:#010101;stroke-width:3;" d="M653.8,674.5h-606c-6.6,0-12-5.4-12-12V419.4
+	c0-6.6,5.4-12,12-12h606c6.6,0,12,5.4,12,12v243.1C665.8,669.1,660.4,674.5,653.8,674.5z"/>
+<text transform="matrix(1 0 0 1 542.3344 195.3208)" style="fill:#262262;stroke:#000000;stroke-width:0.5;stroke-miterlimit:10; font-family:'Tahoma'; font-size:48;">4136</text>
+<text transform="matrix(1 0 0 1 77.875 127.2716)" style="fill:#262262;stroke:#000000;stroke-width:0.5;stroke-miterlimit:10; font-family:'Tahoma'; font-size:14;">Edwards-Venn 2-set diagram</text>
+<text transform="matrix(1 0 0 1 70.8683 165.8092)" style="fill:#262262;stroke:#000000;stroke-width:0.5;stroke-miterlimit:10; font-family:'Tahoma'; font-size:14;">H.sapiens</text>
+<text transform="matrix(1 0 0 1 70.8684 185.2626)" style="fill:#262262;stroke:#000000;stroke-width:0.5;stroke-miterlimit:10; font-family:'Tahoma'; font-size:14;">S.cerevisiae</text>
+<text transform="matrix(1 0 0 1 91.8546 650.9199)" style="fill:#262262;stroke:#000000;stroke-width:0.5;stroke-miterlimit:10; font-family:'Tahoma'; font-size:48;">1698</text>
+<text transform="matrix(1 0 0 1 542.812 650.9203)" style="fill:#FFFFFF;stroke:#000000;stroke-width:0.5;stroke-miterlimit:10; font-family:'Tahoma'; font-size:52;">1073</text>
+<circle style="opacity:0.2;fill:#FFF200;stroke:#010101;stroke-width:2;" cx="59.2" cy="161.5" r="6.9"/>
+<circle style="opacity:0.2;fill:#2E3192;stroke:#010101;stroke-width:2;" cx="59.2" cy="180.2" r="6.9"/>
+</svg>
