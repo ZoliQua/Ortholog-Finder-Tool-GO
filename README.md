@@ -1,51 +1,37 @@
-# Gene Ontology Extension Tppé
+# Gene Ontology Extension Tool (Archived)
 
-Project overarching aim is to extend the list of ontological annotations in Gene Ontology database. To reach this the tool is using orthological informations from eggNOG database. The tool is calculating a score in a given group from other speces then provide suggestions for user. 
+> **This repository is archived.** The next version of this tool is available at: [Ortholog-Finder-Tool](https://github.com/ZoliQua/Ortholog-Finder-Tool)
 
-# Usage
+## About
 
-Identical version of this tool can be found and edited here: http://go.orthologfindertool.com
+This tool extends Gene Ontology (GO) annotations by leveraging ortholog information from the eggNOG database across 7 model organisms (*A. thaliana*, *C. elegans*, *D. melanogaster*, *D. rerio*, *H. sapiens*, *S. cerevisiae*, *S. pombe*). For each GO term, it calculates a homology/membership (H/M) score from orthologous species and provides annotation extension suggestions.
 
-# Version
+A live version was available at: http://go.orthologfindertool.com
 
-Current Public version is 1.0
+## Thesis
 
-# Comments
+This tool was developed as part of the PhD thesis:
 
-Please send any comments to: Zoltán Dul <zoltan.dul@kcl.ac.uk>
+**"A system level approach to identify novel cell size regulators"**
+Zoltán Dul, King's College London (2013–2018)
 
-# Resources & External code sources
+Thesis: https://kclpure.kcl.ac.uk/portal/en/studentTheses/a-system-level-approach-to-identify-novel-cell-size-regulators/
 
-This Code uses scripts from ...
+## Resources & External Code Sources
 
-	Blagoj Janevski's ip2country Script under GNU GPL v2 license (http://phpweby.com/software/ip2country)
-	jQuery v1.11.2 under MIT license
-	jQuery DataTables v1.10.5 under MIT license
+This code uses scripts from:
 
-Gene Ontology Database ...
+- Blagoj Janevski's ip2country Script under GNU GPL v2 license (http://phpweby.com/software/ip2country)
+- jQuery v1.11.2 under MIT license
+- jQuery DataTables v1.10.5 under MIT license
 
-	Ashburner et al, 2000 PubMed id: 10802651 (Gene Ontology)
+External databases used:
 
-Contains informations from the following external databases:
+- Gene Ontology — Ashburner et al, 2000 (PubMed: 10802651)
+- COG/KOG
+- eggNOG
+- UniProt (http://www.uniprot.org/)
 
-	COG/KOG
-	eggNOG
-	UniProt.org Tools (http://www.uniprot.org/)
+## License
 
-# License
-
-This program is free software; you can redistribute it and/or modify
-it under the terms of the GNU General Public License as published by
-the Free Software Foundation; either version 2 of the License, or
-(at your option) any later version.
-
-This program is distributed in the hope that it will be useful,
-but WITHOUT ANY WARRANTY; without even the implied warranty of
-MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
-GNU General Public License for more details.
-
-You should have received a copy of the GNU General Public License along
-with this program; if not, write to the Free Software Foundation, Inc.,
-51 Franklin Street, Fifth Floor, Boston, MA 02110-1301 USA.
-
-Please always copyleft your redistirubtion :)
+This program is free software; you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation; either version 2 of the License, or (at your option) any later version.
