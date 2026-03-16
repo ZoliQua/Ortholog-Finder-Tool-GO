@@ -1,4 +1,4 @@
-# Gene Ontology Extension Tool (Archived)
+# Ortholog Finder Tool - Gene Ontology Extension Tool (Archived)
 
 > **This repository is archived.** Active development continues at: [Ortholog-Finder-Tool](https://github.com/ZoliQua/Ortholog-Finder-Tool)
 
